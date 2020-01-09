@@ -1,7 +1,5 @@
 class Student < Teacher
 
- def new
-  students = []
- end
+attr_accessor :knowledge
 
 end
